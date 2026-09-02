@@ -4,6 +4,9 @@
 
   <!-- GIF Dosyanı reponun ana dizinine ekleyip adını eşleştirebilirsin -->
   <img src="candes.gif" width="460" alt="Late night coding & debugging" />
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=meoweugene&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
   <p><i>Turning caffeine and curiosity into working code, autonomous agents, and secure systems.</i></p>
 </div>
