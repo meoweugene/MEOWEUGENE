@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Kübra Ardıç ! 👋</h1>
   <p><b>Computer Engineering Undergraduate | Aspiring AI & Full-Stack Developer | Cybersecurity Enthusiast</b></p>
-
+<img src="candes.gif" width="460" alt="Late night coding & debugging" />
   <!-- GIF Dosyanı reponun ana dizinine ekleyip adını eşleştirebilirsin -->
-  <div align="center">
-  <img src="https://count.getloli.com/get/@meoweugene?theme=asoul" alt="Views" />
+<div align="center">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fmeoweugene%2Fmeoweugene.json&style=for-the-badge&logo=eye&logoColor=white&color=61dafb&labelColor=20232a&label=PROFILE%20VIEWS" alt="Profile Views" />
 </div>
 
   <p><i>Turning caffeine and curiosity into working code, autonomous agents, and secure systems.</i></p>
