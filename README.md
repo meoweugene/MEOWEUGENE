@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Kübra Ardıç ! 👋</h1>
-  <p><b>Computer Engineering Undergraduate | Aspiring AI & Full-Stack Developer | Cybersecurity Enthusiast</b></p>
+  <p><b>Computer Engineering Undergraduate | Aspiring AI & Full-Stack | Cybersecurity Enthusiast</b></p>
 <img src="candes.gif" width="460" alt="Late night coding & debugging" />
   <!-- GIF Dosyanı reponun ana dizinine ekleyip adını eşleştirebilirsin -->
 <div align="center">
