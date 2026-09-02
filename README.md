@@ -70,4 +70,8 @@
   <a href="mailto:ardickubraaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
+  <a href="https://tryhackme.com/p/ardickubraaa" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ardickubraaa.png" alt="TryHackMe Badge" />
+  </a>
 </div>
